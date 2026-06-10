@@ -25,34 +25,39 @@ Annotation Guidelines
     Neutral → Mixed, unclear, or mild opinion
 
     👉 Rule: If mixed or unclear → choose Neutral
+   
 
-2. Topic
+3. Topic
 
     Product → Quality, performance, defects
     Shipping → Delivery, timing, packaging
     Customer Service → Support, communication
 
     👉 Rule: Label the main issue, not secondary details
+   
 
-3. Confidence
+5. Confidence
 
     High → Clear and obvious
     Medium → Slightly unclear or mixed
     Low → Vague or hard to interpret
 
     👉 Rule: If unsure → not High
+   
 
-4. Edge Cases
+7. Edge Cases
 
     Mixed sentiment → Neutral
     Focus on overall meaning, not keywords
     Example: “not bad” → Neutral
+   
 
-5. Consistency
+9. Consistency
 
     Use the same labels every time
     Example: always “Customer Service” (not variations)
+   
 
-6. Golden Rule
+11. Golden Rule
 
     Focus on context and overall meaning, not individual words
