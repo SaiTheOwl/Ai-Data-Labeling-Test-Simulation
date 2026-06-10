@@ -1,0 +1,11 @@
+ID,Text,Sentiment,Topic,Confidence,Notes
+1,The product works great but arrived late,Neutral,Product,Medium,"Mixed sentiment: Product positive, shipping negative - marked neutral"
+2,I love how fast the shipping was,Positive,Shipping,High,
+3,The customer support agent didn’t solve my issue,Negative,Customer Service,High,
+4,"It’s okay, not the best but not the worst",Neutral,Product,Low,
+5,The item arrived damaged and unusable,Negative,Product,High,
+6,I’m very satisfied with my purchase,Positive,Product,High,
+7,The instructions were unclear and confusing,Negative,Product,High,
+8,Shipping was expensive but quick,Neutral,Shipping,Medium,Mixed sentiment: negative and positve statments - marked neutral
+9,The representative was polite but unhelpful,Neutral,Customer Service,Medium,Mixed sentiment: negative and positve statments - marked neutral
+10,The product exceeded my expectations,Positive,Product,High,
